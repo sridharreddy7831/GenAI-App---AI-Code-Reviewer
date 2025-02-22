@@ -30,7 +30,7 @@ Click the image below to watch the demonstration video:
 
 1. **Clone the Repository**
    ```bash
-   [git clone https://github.com/Swastik-Dubey/GenAI_App_AI_Code_Reviewer.git](https://github.com/sridharreddy7831/GenAI-App---AI-Code-Reviewer.git)
+   git clone https://github.com/Swastik-Dubey/GenAI_App_AI_Code_Reviewer.git](https://github.com/sridharreddy7831/GenAI-App---AI-Code-Reviewer.git
    ```
 2. **Navigate to the Project Directory**
    ```bash
